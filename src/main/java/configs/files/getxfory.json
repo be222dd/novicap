@@ -1,0 +1,12 @@
+[
+  {
+    "productCode": "VOUCHER",
+    "minAmount": 2,
+    "freeAmount": 1
+  },
+  {
+    "productCode": "MUG",
+    "minAmount": 5,
+    "freeAmount": 2
+  }
+]
